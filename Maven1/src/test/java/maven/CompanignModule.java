@@ -6,7 +6,8 @@ import org.testng.annotations.Test;
 public class CompanignModule {
 @Test
 public void compan() {
-		Reporter.log("companign is created",true);
+		Reporter.log("campaign is created",true);
+		
 	}
 
 }
